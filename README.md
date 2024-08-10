@@ -7,4 +7,4 @@ A Netflix clone built with HTML, CSS . Includes a homepage, movie listings, and 
 
 - **HTML**
 - **CSS**
-# Netflix-Colone-front-Page - 🔗  https://harshitsevak-front-page-n-clone.netlify.app/
+# Netflix-Colone-front-Page 
